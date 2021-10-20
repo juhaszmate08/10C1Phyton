@@ -1,0 +1,7 @@
+import random
+from random import *
+
+import random:
+random.randin(tól,ig) [tól;ig]
+random.randrange(tól,ig) [tól;ig[
+random.random() [0;1[
