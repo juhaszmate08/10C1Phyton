@@ -1,0 +1,1 @@
+Írjon Python programot, amelyben egy otthoni vagy kisvállalti hálózat tervezése alap-ján használt eszközeinek költségszámítását végzi el.
